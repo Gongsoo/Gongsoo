@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gongsoo
-- 👀 I’m interested in ... ai developer
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ... ML and CV
+- 🌱 I’m currently learning ... ML
 - 📫 How to reach me ... 
   thank you
 <!---
