@@ -1,7 +1,9 @@
 Hi, I’m @Gongsoo.
  - I’m interested in AI and CV. I’m currently learning Pytorch and Python
+
 Education
  - B.S. Student in Mathematics at Konkuk University
+
 How to reach me 
  - ingduck74@gmail.com
 <!---
